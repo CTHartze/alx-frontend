@@ -348,7 +348,7 @@
       background: var(--color-white);
       transition: all .2s ease-out;
   }
-
+  
   .header .menu-icon .navicon::before {
       top: .7rem;
   }
@@ -356,7 +356,7 @@
   .header .menu-icon .navicon::after {
       top: -.7rem;
   }
-
+  
   /* Footer
       ============================= */
   
