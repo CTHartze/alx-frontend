@@ -1,5 +1,4 @@
 # 0x00. Advanced HTML
-![image](https://github.com/IamNaeto/alx-frontend/assets/105589308/ed794963-9c24-4d3e-b000-d9122cb02023)
 
 
 Welcome!
@@ -43,9 +42,3 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - A ``README.md `` file at the root of the folder of the project is mandatory
 - Your code should be W3C compliant and validate with [W3C-Validator](https://intranet.alxswe.com/rltoken/Q-XyLkED_pMjSGEuZKb7Fw)
 - ``Techium`` will be the name of the company we will use across our webpages.
-
-## Sitemap of the project
-![image](https://github.com/IamNaeto/alx-frontend/assets/105589308/9ad410f8-afa2-4e17-80a2-d5284f7e8337)
-
-## Wireframe of ``Techium`` project
-![image](https://github.com/IamNaeto/alx-frontend/assets/105589308/23aa9e90-3fba-41ad-aff1-08a8017976fa)
